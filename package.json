@@ -1,0 +1,23 @@
+{
+	"name": "MMM-Overwatch",
+	"version": "1.0.0",
+	"description": "A MagicMirror2 module that shows Overwatch players' stats.",
+	"keywords": [
+		"magic mirror",
+		"overwatch"
+	],
+	"homepage": "https://github.com/retroflex/MMM-Overwatch#readme",
+	"bugs": {
+		"url": "https://github.com/retroflex/MMM-Overwatch/issues"
+	},
+	"license": "MIT",
+	"author": "Johan Persson",
+	"main": "MMM-Overwatch.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/retroflex/MMM-Overwatch"
+	},
+	"dependencies": {
+		"request-promise": "^4.2.4"
+	}
+}

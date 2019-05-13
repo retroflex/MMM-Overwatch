@@ -1,0 +1,12 @@
+.MMM-Overwatch td {
+	padding-left: 6px;
+	padding-right: 6px;
+}
+
+.MMM-Overwatch .header-row {
+	font-weight: bold;
+}
+
+.MMM-Overwatch .stats-row {
+	color: #fff;
+}
