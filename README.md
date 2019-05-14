@@ -39,7 +39,7 @@ The stats are fetched from [Ow-API](https://ow-api.com/) (an unofficial Overwatc
 | `userInfos`                   | Array of user info. Each item contains platform and battle tag.<br />Platform can be 'pc' etc. (this is how it's described in the API docs, so you'll have to figure out this yourself.<br />Note that the hash (#) in the battle tag must be replaced with a dash (-)!<br />Your battle tag can be found inside the game.<br />**Default value:** xappyFan1-2240 + itsGGood-1256.
 
 # Customize Looks
-The following class names can be used in 'MagicMirror/css/custom.css' to customize looks (see [MMM-Overwatch.css](https://github.com/retroflex/MMM-BrawlStars/blob/master/MMM-Overwatch.css) for example):
+The following class names can be used in 'MagicMirror/css/custom.css' to customize looks (see [MMM-Overwatch.css](https://github.com/retroflex/MMM-Overwatch/blob/master/MMM-Overwatch.css) for example):
 
 | CSS name                      | Description
 | ------------------------------| -----------
