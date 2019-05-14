@@ -1,5 +1,5 @@
 # MMM-Overwatch
-A [MagicMirror²](https://github.com/MichMich/MagicMirror) module that shows player stats for Overwatch [Brawl Stars](https://playoverwatch.com/).
+A [MagicMirror²](https://github.com/MichMich/MagicMirror) module that shows player stats for [Overwatch](https://playoverwatch.com/).
 
 The stats are fetched from [Ow-API](https://ow-api.com/) (an unofficial Overwatch API). The link says Blizzard's API sometimes goes down and that will affect the API and this module as well.
 
