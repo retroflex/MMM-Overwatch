@@ -36,7 +36,7 @@ The stats are fetched from [Ow-API](https://ow-api.com/) (an unofficial Overwatc
 | `showGamesWon`                | Whether to show column with total games won (all game modes).<br />**Default value:** true
 | `sortBy`                      | Which column to sort by. Possible values: 'level', 'rating' or 'gamesWon'.<br />**Default value:** rating
 | `fetchInterval`               | How often to fetch stats (milliseconds).<br />**Default value:** 10 * 60 * 1000 (every ten minutes)
-| `userInfos`                   | Array of user info. Each item contains platform and battle tag.<br />Platform can be 'pc' etc. (this is how it's described in the API docs, so you'll have to figure out this yourself.<br />Note that the hash (#) in the battle tag must be replaced with a dash (-)!<br />Your battle tag can be found inside the game.<br />**Default value:** xappyFan1-2240 + itsGGood-1256.
+| `userInfos`                   | Array of user info. Each item contains platform and battle tag.<br />Platform can be 'pc' etc. (this is how it's described in the API docs, so you'll have to figure out this yourself.<br />Note that the hash (#) in the battle tag must be replaced with a dash (-)!<br />Your battle tag can be found inside the game.<br />**Default value:** Fury-31609 + HanBin-31186.
 
 # Customize Looks
 The following class names can be used in 'MagicMirror/css/custom.css' to customize looks (see [MMM-Overwatch.css](https://github.com/retroflex/MMM-Overwatch/blob/master/MMM-Overwatch.css) for example):
