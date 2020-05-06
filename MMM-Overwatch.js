@@ -12,8 +12,8 @@ Module.register('MMM-Overwatch', {
 		showRating: true,
 		showGamesWon: true,
 		sortBy: 'rating',  // 'rating', 'level', or 'gamesWon'.
-		userInfos: [ { platform: 'pc', battleTag: 'xappyFan1-2240' },
-		             { platform: 'pc', battleTag: 'MirroR-11669' } ],  // Must replace # with - in battle tag.
+		userInfos: [ { platform: 'pc', battleTag: 'Fury-31609' },
+		             { platform: 'pc', battleTag: 'HanBin-31186' } ],  // Must replace # with - in battle tag.
 		fetchInterval: 10 * 60 * 1000  // In millisecs. Default every ten minutes.
 	},
 
